@@ -13,6 +13,6 @@ String name=request.getParameter("name");
 
 %>
 
-Hello, <%=name %>
+Hello, <%=name %>! How u doin?
 </body>
 </html>
